@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+.col1{
+	width:200px;
+	margin:0;
+	
+}
+h2{
+	text-align:center;
+}
+.col2{
+	width:600px;
+	text-align:center;
+}
+.col3{
+	width:200px
+};
